@@ -18,7 +18,7 @@
 * [🤔 Why This Name?](#-why-this-name)
 * [⌚ Development Time](#-development-time)
 * [🙃 Why I Created This](#-why-i-created-this)
-* [💖 Credits ](###-credits)
+* [💖 Credits ](#-credits)
 * [📞 Contact](#-contact)
 * [📄 License](#-license)
 
