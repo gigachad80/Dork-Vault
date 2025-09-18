@@ -1,7 +1,6 @@
 # 🚀 Project Name : DorkVault
 
-
-### DorkVault : Chrome Extension to save, manage, and organize your Google dork search history with intelligent auto-detection and advanced filtering capabilities.
+DorkVault : Chrome Extension to save, manage, and organize your Google dork search history with intelligent auto-detection and advanced filtering capabilities.
 
  
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-pink.svg)
@@ -155,7 +154,7 @@ intext:"@company.com" filetype:pdf
 
 ### 🙃 Why I Created This
 
-Actually, whenever I do OSINT, especially when it's on a person for cybercrime purposes, I end up using so many dorks that I keep forgetting them, and the browser history gets filled with 70-80 different dorks ( ofc, using different operators and different types of available data). So, I decided to create my own DorkSaver, because I couldn’t find any Chrome extension like that. And I can’t really manage it through the terminal or a notes app, because I’d have to keep switching screens again and again — whereas if I use a browser extension, it becomes much more efficient.
+Actually, whenever I do OSINT, especially when it's on a person especially cybercriminals & scammers , I end up using so many dorks that I keep forgetting them, and the browser history gets filled with 70-80 different dorks ( ofc, using different operators and different types of available data). So, I decided to create my own DorkSaver, because I couldn’t find any Chrome extension like that. And I can’t really manage it through the terminal or a notes app, because I’d have to keep switching screens again and again — whereas if I use a browser extension, it becomes much more efficient.
  
 
 ### 💖 Credits 
