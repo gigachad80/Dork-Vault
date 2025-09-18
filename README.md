@@ -2,7 +2,10 @@
 
 DorkVault : Chrome Extension to save, manage, and organize your Google dork search history with intelligent auto-detection and advanced filtering capabilities.
 
- 
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/7dab1070-c5cb-466a-b478-920c5f55f152" alt="Description" width="300px">
+</p>
+
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-pink.svg)
 <a href="https://github.com/gigachad80/DorkVault/issues"><img src="https://img.shields.io/badge/contributions-welcome-purple.svg?style=flat"></a>
 
